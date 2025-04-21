@@ -27,7 +27,7 @@
         <div class="footer-content">
           <ul class="content-nav">
             <li>
-              <p>走进科建</p>
+              <p>云苓智体——中医体质AI解析与科学减肥服务平台</p>
               <span>发展历程</span>
               <span>企业文化</span>
               <span>资质荣誉</span>
